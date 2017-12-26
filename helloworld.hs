@@ -1,2 +1,1 @@
-main = do
-    putStrLn "Hello, Haskell!"
+main = putStrLn "Hello, Haskell!"
